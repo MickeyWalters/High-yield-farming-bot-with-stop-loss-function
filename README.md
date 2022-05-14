@@ -10,6 +10,16 @@ Here's is the results of me running it for 29 days
 
 <img src="https://i.ibb.co/g68Rq9H/hju.png" alt="hju" border="0">
 
+Here's some daily graphs I made for 4 weeks
+That shows how many times the stop loss was triggered and profit was made.
 
+Week one
+<img src="https://i.ibb.co/VYRvZ1w/week1.png" alt="week1" border="0">
+Week 2
+<img src="https://i.ibb.co/yVhLV92/week2.png" alt="week2" border="0">
+Week 3
+<img src="https://i.ibb.co/wwgf2RW/week3.png" alt="week3" border="0">
+Week 4
+<img src="https://i.ibb.co/zrYxr1H/week4.png" alt="week4" border="0">
 # High-yield-farming-bot-with-stop-loss-function
 High Yield Farming Bot with stoploss function 
